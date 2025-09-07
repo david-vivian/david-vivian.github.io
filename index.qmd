@@ -9,7 +9,7 @@ format:
       - custom.css
 
 author:
-  name: David Vivian
+  name: David A. Vivian
   affiliation: Soka University
   email: dvivian@soka.edu
   github: david-vivian
