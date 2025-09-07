@@ -71,13 +71,11 @@ I am a Visiting Assistant Professor of French Language and Culture at Soka Unive
 
 ## In Progress {.section-title}
 
-::: callout-note
 _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_. Under contract with Liverpool University Press. (Manuscript submitted)
 
 - "Caribbean Science Fiction and the Reimagining of Urban Ecology." _Journal of Modern Literature_, special issue: “Caribbean Literature and the Environment.” (Accepted; 2026)
 
 - "Towards a Caribbean Holistic Ethics of Care: Postcolonial Ecofeminist Stakes in Kei Miller’s _Augustown_ and Maryse Condé’s _Crossing the Mangrove_." _The Handbook of Postcolonial Ecofeminism_, eds. Aslı Değirmenci Altın and Douglas A. Vakoch. (Final draft submitted; volume under review)
-:::
 
 ::: {.column-page}
 ![](data/imgs/bog.png)
