@@ -1,0 +1,10 @@
+
+body {
+  color: #000 !important;
+  font-family: Georgia, serif !important;
+}
+
+/* Keep links blue */
+a, a:visited {
+  color: #0d6efd;
+}
