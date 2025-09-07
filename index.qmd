@@ -28,7 +28,7 @@ Soka University
 ## About
 ::: columns
 :::: {.column width="60%"}
-I am a Visiting Assistant Professor of French Language and Culture at Soka University. A specialist in Caribbean and francophone literature, I situate much of my work within the environmental humanities. My first monograph, _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (under contract with Liverpool UP), develops the concept of “eco-epistemology” to explore how Caribbean authors challenge Eurocentric categories of nature, culture, and knowledge. Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, instead pointing the way to relational and decolonial alternatives.
+I am a Visiting Assistant Professor of French Language and Culture at Soka University. A specialist in Caribbean and francophone literature, I situate much of my work within the environmental humanities. My first monograph, _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (under contract with Liverpool UP), develops the concept of “eco-epistemology” to explore how Caribbean authors challenge Eurocentric categories of nature, culture, and knowledge. Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, instead gesturing toward relational and decolonial alternatives.
 ::::
 
 ::: {.column width="5%"}
