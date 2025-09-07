@@ -18,7 +18,7 @@ author:
 ![](data/imgs/headshot.png){fig-align="left" width=120px style="border-radius: 50%; margin-right: 1.5em; float: left;"}
 
 
-# David Vivian
+# David A. Vivian
 _Visiting Assistant Professor of French Language and Culture_
 
 Soka University  
@@ -39,23 +39,24 @@ I am a Visiting Assistant Professor of French Language and Culture at Soka Unive
 
 ## Education {.section-title}
 
-- **Ph.D. in French**, UC Santa Barbara, 2018  
+- **Ph.D. in Comparative Literature and French**, UC Santa Barbara, 2023  
   _Dissertation: Decolonial Ecologies in Francophone Caribbean Literature_
-- **M.A. in French**, UC Santa Barbara, 2014
-- **B.A. in French**, University of California, Berkeley, 2012
+- **M.A. in Comparative Literature and French**, UC Santa Barbara, 2018
+- **B.A. in Literature**, University of California, Santa Cruz, 2015
 
 
 ## Academic Positions {.section-title}
 
 ::: columns
-- **Visiting Assistant Professor of French Language and Culture**, Soka University (2023–Present)  
-  Teaching French language, literature, and culture. Specialist in Caribbean and francophone literature, with a focus on environmental humanities.
-- **Lecturer, French**, Skidmore College (2021–2023)  
-  Taught French language and culture courses. Developed curriculum on Caribbean ecologies and translation.
-- **Lecturer, French**, UC Santa Barbara (2018–2021)  
-  Taught undergraduate courses in French literature and culture.
-- **Visiting Scholar**, Paris-VIII (2017–2018)  
-  Research on Caribbean literature and environmental humanities.
+- Visiting Assistant Professor of French Language and Culture, Soka University (2024–Present)  
+ 
+- Visiting Assistant Professor of French, French, Skidmore College (2023-24)  
+
+- Visiting Lecturer, Université de Paris-VIII (2022)
+  
+- Graduate Student Instructor, Comparative Literature and French, UC Santa Barbara (2016-22)
+  
+
 :::
 
 
