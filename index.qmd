@@ -28,7 +28,7 @@ Soka University
 ## About
 ::: columns
 :::: {.column width="65%"}
-I am a Visiting Assistant Professor of French Language and Culture at Soka University. A specialist in Caribbean and francophone literature, I situate much of my work within the environmental humanities. My first monograph, *Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves* (under contract with Liverpool UP), develops the concept of “eco-epistemology” to explore how Caribbean authors challenge Eurocentric categories of nature, culture, and knowledge. Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, instead pointing the way to relational and decolonial alternatives.
+I am a Visiting Assistant Professor of French Language and Culture at Soka University. A specialist in Caribbean and francophone literature, I situate much of my work within the environmental humanities. My first monograph, _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (under contract with Liverpool UP), develops the concept of “eco-epistemology” to explore how Caribbean authors challenge Eurocentric categories of nature, culture, and knowledge. Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, instead pointing the way to relational and decolonial alternatives.
 ::::
 
 :::: {.column width="35%"}
@@ -75,6 +75,7 @@ I am a Visiting Assistant Professor of French Language and Culture at Soka Unive
 _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_. Under contract with Liverpool University Press. (Manuscript submitted)
 
 - "Caribbean Science Fiction and the Reimagining of Urban Ecology." _Journal of Modern Literature_, special issue: “Caribbean Literature and the Environment.” (Accepted; 2026)
+
 - "Towards a Caribbean Holistic Ethics of Care: Postcolonial Ecofeminist Stakes in Kei Miller’s _Augustown_ and Maryse Condé’s _Crossing the Mangrove_." _The Handbook of Postcolonial Ecofeminism_, eds. Aslı Değirmenci Altın and Douglas A. Vakoch. (Final draft submitted; volume under review)
 :::
 
@@ -104,7 +105,7 @@ I am committed to student-centered teaching in my language and culture courses, 
 ### Selected Courses
 - Decolonial Ecologies of the Caribbean
 - Informal Cities in the Francophone World
-- Traduire, c’est trahir ? The Art of Translation
+- _Traduire, c’est trahir ?_ The Art of Translation
 - Introduction to Francophone Literature
 - The Anthropocene: Rethinking the Human-Environment Relation
 - Paris, ‘la ville aux cent mille romans’ (1830–1930)
