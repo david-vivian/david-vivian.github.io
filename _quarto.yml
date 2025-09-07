@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: _site
 website:
-  title: "David Vivian"
+  title: "David A. Vivian"
   navbar:
     left:
       - href: index.qmd
