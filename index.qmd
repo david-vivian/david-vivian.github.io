@@ -1,0 +1,128 @@
+---
+title: "David Vivian — Academic Portfolio"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: left
+    css: 
+      - custom.css
+
+author:
+  name: David Vivian
+  affiliation: Soka University
+  email: dvivian@soka.edu
+  github: david-vivian
+---
+
+![](data/imgs/headshot.png){fig-align="left" width=120px style="border-radius: 50%; margin-right: 1.5em; float: left;"}
+
+
+# David Vivian
+_Visiting Assistant Professor of French Language and Culture_
+
+Soka University  
+[Email](mailto:dvivian@soka.edu) | [Personal Website](https://david-vivian.github.io)
+
+
+## About
+::: columns
+:::: {.column width="65%"}
+I am a Visiting Assistant Professor of French Language and Culture at Soka University. A specialist in Caribbean and francophone literature, I situate much of my work within the environmental humanities. My first monograph, *Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves* (under contract with Liverpool UP), develops the concept of “eco-epistemology” to explore how Caribbean authors challenge Eurocentric categories of nature, culture, and knowledge. Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau elucidate a critique of social and ecological messianism, instead pointing the way to relational and decolonial alternatives.
+::::
+
+:::: {.column width="35%"}
+![Picture taken while hiking Martinique’s volcano, Mont Pelée, January 2025](data/imgs/martinique-volcano.png){fig-align="center" width=250px}
+::::
+:::
+
+
+## Education {.section-title}
+
+- **Ph.D. in French**, UC Santa Barbara, 2018  
+  _Dissertation: Decolonial Ecologies in Francophone Caribbean Literature_
+- **M.A. in French**, UC Santa Barbara, 2014
+- **B.A. in French**, University of California, Berkeley, 2012
+
+
+## Academic Positions {.section-title}
+
+::: columns
+- **Visiting Assistant Professor of French Language and Culture**, Soka University (2023–Present)  
+  Teaching French language, literature, and culture. Specialist in Caribbean and francophone literature, with a focus on environmental humanities.
+- **Lecturer, French**, Skidmore College (2021–2023)  
+  Taught French language and culture courses. Developed curriculum on Caribbean ecologies and translation.
+- **Lecturer, French**, UC Santa Barbara (2018–2021)  
+  Taught undergraduate courses in French literature and culture.
+- **Visiting Scholar**, Paris-VIII (2017–2018)  
+  Research on Caribbean literature and environmental humanities.
+:::
+
+
+## Publications {.section-title}
+
+- "A Conversation with Stephanie Saulter: Adaptation and Resilience in the Multicultural Sci-Fi City." _Urban Discourses of Crisis, Resilience, and Resistance: Cities Under Stress_, eds. Lanigan, Lappälä, and Prieto. Palgrave Macmillan, 2025.
+- "The Complexity of Community: Ecology, Science Fiction, and the Future of Literature — A Conversation with Tobias Buckell." _Journal of West Indian Literature_ 31.1, 2022.
+- "Exploring Postcolonial Prejudice and Ecology through Science Fiction — An Interview with Stephanie Saulter." _sx salon_ 40, 2022.
+- "Non-Anthropocentric Ecologies in Jacques Stéphen Alexis’s Romancero aux étoiles and Yanick Lahens’s Bain de lune." _Journal of Haitian Studies_ 28.1, 2022.
+- "Eco-Epistemology and Eschatology: Examining the Savior Complex in Jacques Roumain’s Gouverneurs de la rosée and Patrick Chamoiseau’s Les neuf consciences du Malfini." _French Forum_ 45.2, 2020.
+
+
+## In Progress {.section-title}
+
+::: callout-note
+**Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves.** Under contract with Liverpool University Press. (Manuscript submitted)
+
+- "Caribbean Science Fiction and the Reimagining of Urban Ecology." _Journal of Modern Literature_, special issue: “Caribbean Literature and the Environment.” (Accepted; 2026)
+- "Towards a Caribbean Holistic Ethics of Care: Postcolonial Ecofeminist Stakes in Kei Miller’s Augustown and Maryse Condé’s Crossing the Mangrove." _The Handbook of Postcolonial Ecofeminism_, eds. Aslı Değirmenci Altın and Douglas A. Vakoch. (Final draft submitted; volume under review)
+:::
+
+::: {.column-page}
+![](data/imgs/bog.png)
+:::
+
+
+## Public Writing {.section-title}
+
+- "The colonial legacy lurking beneath economic unrest in the French Caribbean." _The Conversation_, 1 November 2024
+
+
+## Selected Presentations {.section-title}
+
+- "Toxicity and Coloniality." _Toxic Exposure: Chemicals in Contemporary Global Fiction_. The American Comparative Literature Association (ACLA) Annual Conference, May 29–June 1, 2025
+- "Urban Poverty and the Promise of Paradise: Mahi Binebine’s Horses of God." Soka University, EMP 335: Cities and Environment in the Global South (Prof. Deike Peters), October 3, 2024
+- "Creole Creativity as Plantation Resistance: A Decolonial-Ecofeminist Perspective," Amherst College (Lecture sponsored by the Department of French), March 13, 2024
+- "Emergent Eco-epistemology: Caribbean Ecopoetics and Climate Change." UCLA’s Annual Southland Conference, “Emergences,” August 10–11, 2021
+- "The Haunting Past: Trauma, Time, and (Post)Memory in Patrick Modiano’s Dora Bruder." The Centre for Comparative Literature’s 29th Annual Conference, University of Toronto, March 29–30, 2019
+
+
+## Teaching {.section-title}
+
+I am committed to student-centered teaching in my language and culture courses, helping cultivate vital skills at a time when education is actively under assault. With extensive teaching experience at both liberal arts colleges (Skidmore College; Soka University) and research universities (UC Santa Barbara; Paris-VIII), I foster inclusive classrooms where students connect language learning to critical issues, such as the climate crisis, social justice, and learning in the age of AI.
+
+### Selected Courses
+- Decolonial Ecologies of the Caribbean
+- Informal Cities in the Francophone World
+- Traduire, c’est trahir ? The Art of Translation
+- Introduction to Francophone Literature
+- The Anthropocene: Rethinking the Human-Environment Relation
+- Paris, ‘la ville aux cent mille romans’ (1830–1930)
+- French Literature from the Renaissance to the Enlightenment
+- The Modern World in Six Novels
+
+### Faculty Seminar (Mellon Grant - Skidmore College)
+- Black Ecologies: Environmental (In)justice and Radical Resistance
+
+
+## Contact {.section-title}
+
+- Email: [dvivian@soka.edu](mailto:dvivian@soka.edu)
+- [GitHub](https://github.com/david-vivian) | [LinkedIn](https://linkedin.com/in/david-vivian)
+
+<style>
+.section-title {
+  margin-top: 2em;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 0.2em;
+}
+</style>
