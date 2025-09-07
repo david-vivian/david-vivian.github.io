@@ -1,5 +1,5 @@
 ---
-title: "David Vivian — Academic Portfolio"
+title: "David A. Vivian — Academic Portfolio"
 format:
   html:
     theme: cosmo
