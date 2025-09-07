@@ -1,0 +1,9 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  title: "David Vivian"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
