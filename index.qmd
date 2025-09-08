@@ -116,7 +116,6 @@ I am committed to student-centered teaching in my language and culture courses, 
 ## Contact {.section-title}
 
 - Email: [dvivian@soka.edu](mailto:dvivian@soka.edu)
-- [GitHub](https://github.com/david-vivian) | [LinkedIn](https://linkedin.com/in/david-vivian)
 
 <style>
 .section-title {
