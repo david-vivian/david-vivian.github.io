@@ -26,7 +26,7 @@ I am a Visiting Assistant Professor of French Language and Culture at Soka Unive
 :::
 
 :::: {.column width="35%"}
-![Picture taken while hiking Martinique’s volcano, Mont Pelée, January 2025](data/imgs/martinique-volcano.png){fig-align="center" width=250px}
+![Photo taken while hiking Martinique’s volcano, Mont Pelée, January 2025](data/imgs/martinique-volcano.png){fig-align="center" width=250px}
 ::::
 :::
 
