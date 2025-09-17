@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d68be38d83eca2bb035acf846ffba811.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1713c1db1ad41a796903378fc9ac7b2b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,6 +80,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">David A. Vivian</span>
     </a>
@@ -214,6 +217,7 @@ Dissertation: <em>From Messiahs to Mangroves: Towards a Caribbean Eco-Epistemolo
 <ul>
 <li><p><em>Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves</em>. Under contract with Liverpool University Press. (Manuscript submitted)</p></li>
 <li><p>“Caribbean Science Fiction and the Reimagining of Urban Ecology.” <em>Journal of Modern Literature</em>, special issue: “Caribbean Literature and the Environment.” (Accepted; 2026)</p></li>
+<li><p>“Que peut littérature quand elle ne peut? par Patrick Chamoiseau (review).” <em>French Review</em> 99.4. (Accepted; 2026).</p></li>
 <li><p>“Towards a Caribbean Holistic Ethics of Care: Postcolonial Ecofeminist Stakes in Kei Miller’s <em>Augustown</em> and Maryse Condé’s <em>Crossing the Mangrove</em>.” <em>The Handbook of Postcolonial Ecofeminism</em>, eds.&nbsp;Aslı Değirmenci Altın and Douglas A. Vakoch. (Final draft submitted; volume under review)</p></li>
 </ul>
 <div class="column-page">
@@ -223,7 +227,8 @@ Dissertation: <em>From Messiahs to Mangroves: Towards a Caribbean Eco-Epistemolo
 <section id="public-writing" class="level2 section-title">
 <h2 class="section-title anchored" data-anchor-id="public-writing">Public Writing</h2>
 <ul>
-<li>“The colonial legacy lurking beneath economic unrest in the French Caribbean.” <em>The Conversation</em>, 1 November 2024 [<a href="https://theconversation.com/the-colonial-legacy-lurking-beneath-economic-unrest-in-the-french-caribbean-242460">link</a>]</li>
+<li><p>“The colonial legacy lurking beneath economic unrest in the French Caribbean.” <em>The Conversation</em>, 1 November 2024 [<a href="https://theconversation.com/the-colonial-legacy-lurking-beneath-economic-unrest-in-the-french-caribbean-242460">link</a>]</p></li>
+<li><p>“What Is Comparative Literature and Why Study It?” <em>Culture Frontier</em>, 12 May 2023 [<a href="https://www.culturefrontier.com/comparative-literature/">link</a>]</p></li>
 </ul>
 </section>
 <section id="selected-presentations" class="level2 section-title">
@@ -304,13 +309,14 @@ Dissertation: <em>From Messiahs to Mangroves: Towards a Caribbean Eco-Epistemolo
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
