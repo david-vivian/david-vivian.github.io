@@ -15,6 +15,9 @@ format:
 Visiting Assistant Professor of French Language and Culture, Soka University  
 [Email](mailto:dvivian@soka.edu) | [CV](CV_2025_09_15_VIVIAN.pdf)
 
+::: {.column-page}
+![](data/imgs/bog.png)
+:::
 
 ## About
 ::: columns
@@ -100,10 +103,6 @@ I am committed to student-centered teaching in my language and culture courses, 
 - “_Que peut littérature quand elle ne peut?_ par Patrick Chamoiseau (review).” _French Review_ 99.4. (Accepted; 2026).
 
 - "Towards a Caribbean Holistic Ethics of Care: Postcolonial Ecofeminist Stakes in Kei Miller’s _Augustown_ and Maryse Condé’s _Crossing the Mangrove_." _The Handbook of Postcolonial Ecofeminism_, eds. Aslı Değirmenci Altın and Douglas A. Vakoch. (Final draft submitted; volume under review)
-
-::: {.column-page}
-![](data/imgs/bog.png)
-:::
 
 
 ## Public Writing {.section-title}
