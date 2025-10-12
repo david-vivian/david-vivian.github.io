@@ -31,7 +31,7 @@ In addition, I am editing a scholarly volume entitled _Toxicity in Contemporary 
 :::
 
 :::: {.column width="35%"}
-![Photo taken while hiking Martinique’s volcano, Mont Pelée, January 2025](data/imgs/martinique-volcano.png){fig-align="center" width=250px}
+![Photo taken while hiking Martinique’s Mont Pelée volcano, January 2025](data/imgs/martinique-volcano.png){fig-align="center" width=250px}
 ::::
 :::
 
