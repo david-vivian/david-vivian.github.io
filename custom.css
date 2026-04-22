@@ -9,6 +9,7 @@ body {
 }
 
 .mangrove-banner img {
+  image-orientation: from-image;
   width: 100%;
   display: block;
   margin: 0;
