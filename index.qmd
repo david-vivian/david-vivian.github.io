@@ -136,9 +136,17 @@ I am committed to student-centered teaching in my language and culture courses, 
 
 ---
 
-<div class="mangrove-banner" style="position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; width: 100vw; margin-top: 3em; overflow: hidden;">
-<img src="data/imgs/mangrove.jpg" style="width: 100%; display: block; margin: 0; padding: 0; image-orientation: from-image;"/>
-</div>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    var banner = document.createElement('div');
+    banner.style.cssText = 'width:100%; margin-top:3em; overflow:hidden;';
+    var img = document.createElement('img');
+    img.src = 'data/imgs/mangrove.jpg';
+    img.style.cssText = 'width:100%; display:block; margin:0; padding:0; transform:rotate(180deg);';
+    banner.appendChild(img);
+    document.body.appendChild(banner);
+  });
+</script>
 
 <style>
 .section-title {
