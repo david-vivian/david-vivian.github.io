@@ -2,6 +2,7 @@
 body {
   color: #000 !important;
   font-family: Georgia, serif !important;
+  overflow-x: hidden;
 }
 
 /* Keep links blue */
