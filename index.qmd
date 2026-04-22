@@ -15,10 +15,6 @@ format:
 Visiting Assistant Professor of French Language and Culture, Soka University  
 [Email](mailto:dvivian@soka.edu) | [CV](CV_2025_October_VIVIAN.pdf)
 
-::: {.column-page}
-![](data/imgs/bog.png)
-:::
-
 ## About
 ::: columns
 :::: {.column width="60%"}
