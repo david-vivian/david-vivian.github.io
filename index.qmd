@@ -142,7 +142,7 @@ I am committed to student-centered teaching in my language and culture courses, 
     banner.style.cssText = 'width:100%; margin-top:3em; overflow:hidden;';
     var img = document.createElement('img');
     img.src = 'data/imgs/mangrove.jpg';
-    img.style.cssText = 'width:100%; display:block; margin:0; padding:0; transform:rotate(180deg);';
+    img.style.cssText = 'width:100%; display:block; margin:0; padding:0;';
     banner.appendChild(img);
     document.body.appendChild(banner);
   });
