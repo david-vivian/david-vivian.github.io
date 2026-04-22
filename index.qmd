@@ -31,7 +31,7 @@ In addition, I am editing a scholarly volume entitled _Toxicity in Contemporary 
 
 ![](data/imgs/martinique-volcano.png){width=220px fig-align="center"}
 
-<small>Photo taken while hiking Martinique's Mont Pelée volcano, January 2025</small>
+<small style="display: block; margin-top: 0.3em;">Photo taken while hiking Martinique's Mont Pelée volcano, January 2025</small>
 
 </div>
 
