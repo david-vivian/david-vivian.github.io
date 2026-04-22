@@ -137,7 +137,7 @@ I am committed to student-centered teaching in my language and culture courses, 
 ---
 
 ::: {.column-screen}
-![](data/imgs/mangrove.jpg){style="height: 400px; width: 100%; object-fit: cover;"}
+![](data/imgs/mangrove.jpg){style="height: 400px; width: 100%; object-fit: cover; object-position: center center;"}
 :::
 
 <style>
