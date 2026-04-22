@@ -140,4 +140,13 @@ I am committed to student-centered teaching in my language and culture courses, 
   border-bottom: 2px solid #e0e0e0;
   padding-bottom: 0.2em;
 }
+
+---
+
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-top: 3em;">
+
+![](data/imgs/mangrove.jpg){width=100% style="display: block; margin: 0; padding: 0;"}
+
+</div>
+
 </style>
