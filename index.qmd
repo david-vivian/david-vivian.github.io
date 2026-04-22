@@ -23,7 +23,7 @@ I am a Visiting Assistant Professor of French Language and Culture at Soka Unive
 In addition, I am editing a scholarly volume entitled _Toxicity in Contemporary Global Fiction: Perspectives from the Environmental Humanities_, and preparing a translation of Patrick Chamoiseau's novel _Les neuf consciences du Malfini_. 
 ::::
 
-::: {.column width="5%"}
+::: {.column width="15%"}
 :::
 
 :::: {.column width="35%"}
