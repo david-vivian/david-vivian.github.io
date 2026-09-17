@@ -5,15 +5,15 @@ format:
     theme: cosmo
     toc: true
     toc-location: left
-    css: 
+    css:
       - custom.css
 
 ---
 
 ![](data/imgs/headshot.png){fig-align="left" width=120px style="border-radius: 50%; margin-right: 1.5em; float: left;"}
- 
-Visiting Assistant Professor of French & Francophone Studies, Soka University  
-[Email](mailto:dvivian@soka.edu) | [CV](CV_2026_April_VIVIAN.pdf)
+
+Environmental Humanities · Caribbean Studies & Comparative Literature (French/Spanish/English)
+[Email](mailto:davidavivian@gmail.com) | [CV](CV_2026_09_VIVIAN.pdf)
 
 ## About
 
@@ -21,7 +21,7 @@ Visiting Assistant Professor of French & Francophone Studies, Soka University
 
 <div style="flex: 3;">
 
-I am a Visiting Assistant Professor of French & Francophone Studies at Soka University. A specialist in Caribbean and francophone literatures, I situate much of my work within the environmental humanities. My first monograph _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (under contract with Liverpool UP) develops the concept of "eco-epistemology." Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, gesturing instead toward relational and decolonial alternatives.
+A specialist in Caribbean and francophone literatures, I situate much of my work within the environmental humanities. My first monograph _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (under contract with Liverpool UP) develops the concept of "eco-epistemology." Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, gesturing instead toward relational and decolonial alternatives.
 
 In addition, I am editing a scholarly volume entitled _Toxicity in Contemporary Global Fiction: Perspectives from the Environmental Humanities_ (under contract with Routledge's Environmental Humanities series), and preparing a translation of Patrick Chamoiseau's novel _Les neuf consciences du Malfini_.
 
@@ -40,7 +40,7 @@ In addition, I am editing a scholarly volume entitled _Toxicity in Contemporary 
 
 ## Education {.section-title}
 
-- **Ph.D. in Comparative Literature and French**, University of California, Santa Barbara, 2023  
+- **Ph.D. in Comparative Literature and French**, University of California, Santa Barbara, 2023
   Dissertation: _From Messiahs to Mangroves: Towards a Caribbean Eco-Epistemology_ [[link](https://www.proquest.com/openview/e0214c5582408015f9e7a6c24c6fdab8/1?pq-origsite=gscholar&cbl=18750&diss=y)]
 
 - **M.A. in Comparative Literature and French**, University of California, Santa Barbara, 2018
@@ -51,14 +51,14 @@ In addition, I am editing a scholarly volume entitled _Toxicity in Contemporary 
 ## Teaching Experience and Philosophy {.section-title}
 
 ::: columns
-- Visiting Assistant Professor of French Language and Culture, Soka University (2024–Present)  
- 
-- Visiting Assistant Professor of French, Skidmore College (2023-24)  
+- Visiting Assistant Professor of French Language and Culture, Soka University (2024–26)
+
+- Visiting Assistant Professor of French, Skidmore College (2023-24)
 
 - Visiting Lecturer, Université de Paris-VIII (2022)
 
 - Instructor, English as a Second Language (ESL), El Encanto Hotel (2022)
-  
+
 - Graduate Student Instructor, Comparative Literature and French, UC Santa Barbara (2016-22)
 
 I am committed to student-centered teaching in my language and culture courses, helping cultivate vital skills at a time when education is actively under assault. With extensive teaching experience at both liberal arts colleges and research universities, I am adept at fostering inclusive classrooms and connecting language learning to critical issues, such as climate concerns, social justice, and knowledge in the age of AI.
@@ -69,13 +69,13 @@ I am committed to student-centered teaching in my language and culture courses, 
 
 - Informal Cities in the Francophone World
 
-- _Traduire, c’est trahir ?_ The Art of Translation
+- _Traduire, c'est trahir ?_ The Art of Translation
 
 - Black Ecologies: Environmental (In)justice and Radical Resistance
 
 - The Anthropocene: Rethinking the Human-Environment Relation
 
-- Paris, ‘la ville aux cent mille romans’ (1830–1930)
+- Paris, 'la ville aux cent mille romans' (1830–1930)
 
 - French Literature from the Renaissance to the Enlightenment
 
@@ -93,20 +93,20 @@ I am committed to student-centered teaching in my language and culture courses, 
 
 - "Exploring Postcolonial Prejudice and Ecology through Science Fiction — An Interview with Stephanie Saulter." _sx salon_ 40, 2022. [[link](https://smallaxe.net/sxsalon/discussions/exploring-postcolonial-prejudice-and-ecology-through-science-fiction)]
 
-- "Non-Anthropocentric Ecologies in Jacques Stephen Alexis’s _Romancero aux étoiles_ and Yanick Lahens’s _Bain de lune_." _Journal of Haitian Studies_ 28.1, 2022. [[link](https://muse.jhu.edu/pub/422/article/885000/summary)]
+- "Non-Anthropocentric Ecologies in Jacques Stephen Alexis's _Romancero aux étoiles_ and Yanick Lahens's _Bain de lune_." _Journal of Haitian Studies_ 28.1, 2022. [[link](https://muse.jhu.edu/pub/422/article/885000/summary)]
 
-- "Eco-Epistemology and Eschatology: Examining the Savior Complex in Jacques Roumain’s Gouverneurs de la rosée and Patrick Chamoiseau’s Les neuf consciences du Malfini." _French Forum_ 45.2, 2020. [[link](https://www.jstor.org/stable/27136232)]
+- "Eco-Epistemology and Eschatology: Examining the Savior Complex in Jacques Roumain's Gouverneurs de la rosée and Patrick Chamoiseau's Les neuf consciences du Malfini." _French Forum_ 45.2, 2020. [[link](https://www.jstor.org/stable/27136232)]
 
 
 ## In Progress {.section-title}
 
 - _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_. Under contract with Liverpool University Press. (Manuscript submitted)
 
-- "Caribbean Science Fiction and the Reimagining of Urban Ecology." _Journal of Modern Literature_, special issue: “Caribbean Literature and the Environment.” (Accepted; 2026)
+- "Caribbean Science Fiction and the Reimagining of Urban Ecology." _Journal of Modern Literature_, special issue: "Caribbean Literature and the Environment." (Accepted; 2026)
 
-- “_Que peut littérature quand elle ne peut?_ par Patrick Chamoiseau (review).” _French Review_ 99.4. (Accepted; 2026).
+- "_Que peut littérature quand elle ne peut?_ par Patrick Chamoiseau (review)." _French Review_ 99.4. (Accepted; 2026).
 
-- "Towards a Caribbean Holistic Ethics of Care: Postcolonial Ecofeminist Stakes in Kei Miller’s _Augustown_ and Maryse Condé’s _Crossing the Mangrove_." _The Handbook of Postcolonial Ecofeminism_, eds. Aslı Değirmenci Altın and Douglas A. Vakoch. (Final draft submitted; volume under review)
+- "Towards a Caribbean Holistic Ethics of Care: Postcolonial Ecofeminist Stakes in Kei Miller's _Augustown_ and Maryse Condé's _Crossing the Mangrove_." _The Handbook of Postcolonial Ecofeminism_, eds. Aslı Değirmenci Altın and Douglas A. Vakoch. (Final draft submitted; volume under review)
 
 
 ## Public Writing {.section-title}
@@ -120,19 +120,19 @@ I am committed to student-centered teaching in my language and culture courses, 
 
 - "Toxicity and Coloniality." _Toxic Exposure: Chemicals in Contemporary Global Fiction_. The American Comparative Literature Association (ACLA) Annual Conference, May 29–June 1, 2025
 
-- "Urban Poverty and the Promise of Paradise: Mahi Binebine’s _Horses of God_." Soka University, EMP 335: Cities and Environment in the Global South (Prof. Deike Peters), October 3, 2024
+- "Urban Poverty and the Promise of Paradise: Mahi Binebine's _Horses of God_." Soka University, EMP 335: Cities and Environment in the Global South (Prof. Deike Peters), October 3, 2024
 
 - "Creole Creativity as Plantation Resistance: A Decolonial-Ecofeminist Perspective," Amherst College (Lecture sponsored by the Department of French), March 13, 2024
 
-- "Emergent Eco-epistemology: Caribbean Ecopoetics and Climate Change." UCLA’s Annual Southland Conference, “Emergences,” August 10–11, 2021
+- "Emergent Eco-epistemology: Caribbean Ecopoetics and Climate Change." UCLA's Annual Southland Conference, "Emergences," August 10–11, 2021
 
-- "The Haunting Past: Trauma, Time, and (Post)Memory in Patrick Modiano’s _Dora Bruder_." The Centre for Comparative Literature’s 29th Annual Conference, University of Toronto, March 29–30, 2019
+- "The Haunting Past: Trauma, Time, and (Post)Memory in Patrick Modiano's _Dora Bruder_." The Centre for Comparative Literature's 29th Annual Conference, University of Toronto, March 29–30, 2019
 
 
 
 ## Contact {.section-title}
 
-- Email: [dvivian@soka.edu](mailto:dvivian@soka.edu)
+- Email: [davidavivian@gmail.com](mailto:davidavivian@gmail.com)
 
 ---
 
