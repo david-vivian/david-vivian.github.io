@@ -22,7 +22,7 @@ Environmental Humanities · Caribbean Studies · Comparative Literature (French/
 
 <div style="flex: 3;">
 
-A specialist in Caribbean and francophone literatures, I situate much of my work within the environmental humanities. My first monograph _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP., expected 2027) develops the concept of "eco-epistemology." Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, gesturing instead toward relational and decolonial alternatives.
+A specialist in Caribbean and francophone literatures, I situate much of my work within the environmental humanities. My first monograph _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP, expected 2027) develops the concept of "eco-epistemology." Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, gesturing instead toward relational and decolonial alternatives.
 
 In addition, I am editing a scholarly volume entitled _Toxic Narratives: Global Perspectives on Toxicity from the Environmental Humanities_ (under contract with Routledge's Environmental Humanities series), and preparing a translation of Patrick Chamoiseau's novel _Les neuf consciences du Malfini_.
 
@@ -32,7 +32,7 @@ In addition, I am editing a scholarly volume entitled _Toxic Narratives: Global 
 
 ![](data/imgs/martinique-volcano.png){width=220px fig-align="center"}
 
-<small style="display: block; margin-top: 0.1em; line-height: 1.3;">Photo taken while hiking Martinique's Mont Pelée volcano, January 2025</small>
+<small style="display: block; margin-top: 0.05em; line-height: 1.3;">Photo taken while hiking Martinique's Mont Pelée volcano, January 2025</small>
 
 </div>
 
