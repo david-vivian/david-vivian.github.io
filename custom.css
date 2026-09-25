@@ -20,3 +20,14 @@ body {
 a, a:visited {
   color: #0d6efd;
 }
+
+/* Full-width mangrove photo at the bottom of the page.
+   Height scales with viewport width so wide screens don't crop it to a thin
+   strip, and the crop is anchored low so the roots and water stay in view. */
+.mangrove-footer {
+  width: 100%;
+  height: clamp(260px, 35vw, 620px);
+  object-fit: cover;
+  object-position: center 85%;
+  display: block;
+}
