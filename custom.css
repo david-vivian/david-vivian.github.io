@@ -16,9 +16,110 @@ body {
   padding: 0;
 }
 
-/* Keep links blue */
+/* Palette drawn from the mangrove and Mont Pelée photos:
+   a deep mangrove green for structure, a muted teal for links,
+   and a pale sage for tinted panels. */
+:root {
+  --accent: #1f4f4a;
+  --link: #22706a;
+  --link-hover: #174e4a;
+  --tint: #f2f6f4;
+  --rule: #dfe7e4;
+}
+
 a, a:visited {
-  color: #0d6efd;
+  color: var(--link);
+}
+a:hover {
+  color: var(--link-hover);
+}
+
+/* Section headings: light rule with a short green accent bar */
+h2.section-title, main h2 {
+  color: var(--accent);
+  border-bottom: 1px solid var(--rule) !important;
+  position: relative;
+}
+main h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 3rem;
+  height: 3px;
+  background: var(--accent);
+}
+main h3 {
+  color: var(--accent);
+}
+
+/* Table of contents: active item in the accent color */
+#TOC .nav-link.active,
+nav[role="doc-toc"] a.active {
+  color: var(--link) !important;
+  border-left-color: var(--link) !important;
+}
+
+/* Header block: portrait beside fields, book line and links */
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+  background: var(--tint);
+  border-left: 4px solid var(--accent);
+  border-radius: 6px;
+  padding: 1.25rem 1.5rem;
+  margin: 0.5rem 0 1.5rem;
+}
+.hero p {
+  margin: 0;
+}
+.hero > p:first-child {
+  flex-shrink: 0;
+}
+.hero .headshot {
+  width: 140px;
+  height: 140px;
+  aspect-ratio: 1;
+  object-fit: cover;
+  object-position: center 20%;
+  max-width: none;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  flex-shrink: 0;
+}
+.hero-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.hero-fields {
+  font-size: 1.05rem;
+  color: var(--accent);
+  font-weight: bold;
+}
+.hero-tagline {
+  font-style: normal;
+}
+.hero-link {
+  display: inline-block;
+  padding: 0.15rem 0.85rem;
+  margin-right: 0.4rem;
+  border: 1px solid var(--link);
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+.hero-link:hover {
+  background: var(--link);
+  color: #fff !important;
+}
+@media (max-width: 600px) {
+  .hero {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 }
 
 /* Full-width mangrove photo at the bottom of the page.
@@ -36,4 +137,28 @@ a, a:visited {
 main h3 {
   font-size: 1.2rem;
   margin-top: 1.5em;
+}
+
+/* About: text beside the Mont Pelée photo, stacked on phones */
+.about-row {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+}
+.about-text {
+  flex: 3;
+}
+.about-photo {
+  flex: 1;
+  text-align: center;
+  min-width: 200px;
+}
+@media (max-width: 600px) {
+  .about-row {
+    flex-direction: column;
+    gap: 0.5em;
+  }
+  .about-photo {
+    align-self: center;
+  }
 }
