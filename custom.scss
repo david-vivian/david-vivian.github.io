@@ -81,10 +81,9 @@ nav[role="doc-toc"] a.active {
 }
 .hero .headshot {
   width: 140px;
-  height: 140px;
-  aspect-ratio: 1;
+  height: 170px;
   object-fit: cover;
-  object-position: center 20%;
+  object-position: center top;
   max-width: none;
   border-radius: 50%;
   border: 3px solid #fff;

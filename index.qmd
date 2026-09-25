@@ -11,7 +11,7 @@ format:
 ---
 
 ::: {.hero}
-![](data/imgs/headshot.png){.headshot width="140" height="140" fig-alt="Portrait of David A. Vivian"}
+![](data/imgs/headshot.png){.headshot width="140" height="170" fig-alt="Portrait of David A. Vivian"}
 
 ::: {.hero-text}
 [Environmental Humanities · Caribbean Studies · Comparative Literature (French/English/Spanish)]{.hero-fields}
