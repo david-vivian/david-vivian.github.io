@@ -14,7 +14,7 @@ format:
 
 Environmental Humanities · Caribbean Studies · Comparative Literature (French/English/Spanish)
 
-[Email](mailto:davidavivian@gmail.com) | [CV](CV_2026_09_16_VIVIAN.pdf) | [ORCID](https://orcid.org/0009-0005-4482-3273)
+[Email](mailto:davidavivian@gmail.com) | [CV](Vivian_CV.pdf) | [ORCID](https://orcid.org/0009-0005-4482-3273)
 
 ## About
 
@@ -82,7 +82,25 @@ I am committed to student-centered teaching in my language and culture courses, 
 
 ## Publications {.section-title}
 
-- "_Que peut littérature quand elle ne peut?_ par Patrick Chamoiseau" (review). _French Review_ 99.4 (2026). [[link](https://muse.jhu.edu/pub/1/article/990133/pdf)]
+### Monograph
+
+- _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_. Liverpool University Press, forthcoming 2027.
+
+### Journal Articles
+
+- "Reimagining Urban Ecology through Caribbean Science Fiction: Reading the Green Cities of Tobias Buckell and Stephanie Saulter." _Journal of Modern Literature_ 49.4 (October 2026), forthcoming.
+
+- "Ecology Against Empire: The Césaires' Decolonial Ecology Avant La Lettre." Invited article for the special issue "Ecologies of Empire," _Bulletin of Francophone Postcolonial Studies_, forthcoming.
+
+- "Non-Anthropocentric Ecologies in Jacques Stéphen Alexis's _Romancero aux étoiles_ and Yanick Lahens's _Bain de lune_." _Journal of Haitian Studies_ 28.1 (2022). [[link](https://muse.jhu.edu/article/781781/summary)]
+
+- "Eco-Epistemology and Eschatology: Examining the Savior Complex in Jacques Roumain's _Gouverneurs de la rosée_ and Patrick Chamoiseau's _Les neuf consciences du Malfini_." _French Forum_ 45.2 (2020). [[link](https://www.jstor.org/stable/27136232)]
+
+### Edited Volume
+
+- Editor, _Toxic Narratives: Global Perspectives on Toxicity from the Environmental Humanities_. Under contract with Routledge (Routledge Environmental Humanities series; manuscript in progress).
+
+### Interviews
 
 - "A Conversation with Stephanie Saulter: Adaptation and Resilience in the Multicultural Sci-Fi City." In _Urban Discourses of Crisis, Resilience, and Resistance: Cities Under Stress_, eds. Lanigan, Lappälä, and Prieto. Palgrave Macmillan, 2025. [[link](https://link.springer.com/chapter/10.1007/978-3-031-86897-9_4)]
 
@@ -90,23 +108,11 @@ I am committed to student-centered teaching in my language and culture courses, 
 
 - "Exploring Postcolonial Prejudice and Ecology through Science Fiction — An Interview with Stephanie Saulter." _sx salon_ 40 (2022). [[link](https://smallaxe.net/sxsalon/discussions/exploring-postcolonial-prejudice-and-ecology-through-science-fiction)]
 
-- "Non-Anthropocentric Ecologies in Jacques Stéphen Alexis's _Romancero aux étoiles_ and Yanick Lahens's _Bain de lune_." _Journal of Haitian Studies_ 28.1 (2022). [[link](https://muse.jhu.edu/article/781781/summary)]
+### Book Review
 
-- "Eco-Epistemology and Eschatology: Examining the Savior Complex in Jacques Roumain's _Gouverneurs de la rosée_ and Patrick Chamoiseau's _Les neuf consciences du Malfini_." _French Forum_ 45.2 (2020). [[link](https://www.jstor.org/stable/27136232)]
+- "_Que peut littérature quand elle ne peut?_ par Patrick Chamoiseau" (review). _French Review_ 99.4 (2026). [[link](https://muse.jhu.edu/pub/1/article/990133/pdf)]
 
-
-## Forthcoming {.section-title}
-
-- _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_. Liverpool University Press (2027).
-
-- "Reimagining Urban Ecology through Caribbean Science Fiction: Reading the Green Cities of Tobias Buckell and Stephanie Saulter." _Journal of Modern Literature_ 49.4 (October 2026).
-
-- "Ecology Against Empire: The Césaires' Decolonial Ecology Avant La Lettre." Invited article for the special issue "Ecologies of Empire," _Bulletin of Francophone Postcolonial Studies_.
-
-
-## Under Review and In Preparation {.section-title}
-
-- Editor, _Toxic Narratives: Global Perspectives on Toxicity from the Environmental Humanities_. Under contract with Routledge (Routledge Environmental Humanities series; manuscript in progress).
+### Under Review
 
 - Editor (with Lauren D. Ravalico), _Narrating Toxicity: Cultural Responses to Environmental Harm in Francophone Cultures_. Under review at Liverpool UP.
 

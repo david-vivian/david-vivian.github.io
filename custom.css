@@ -31,3 +31,9 @@ a, a:visited {
   object-position: center 85%;
   display: block;
 }
+
+/* Publication sub-categories (Monograph, Journal Articles, ...) */
+main h3 {
+  font-size: 1.2rem;
+  margin-top: 1.5em;
+}
