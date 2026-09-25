@@ -14,7 +14,7 @@ format:
 ![](data/imgs/headshot.png){.headshot width="140" height="170" fig-alt="Portrait of David A. Vivian"}
 
 ::: {.hero-text}
-[Environmental Humanities · Caribbean Studies · Comparative Literature (French/English/Spanish)]{.hero-fields}
+[Environmental Humanities · Caribbean Studies · Comparative Literature]{.hero-fields}
 
 [Author of _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP, forthcoming 2027)]{.hero-tagline}
 
