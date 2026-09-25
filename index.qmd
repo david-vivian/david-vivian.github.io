@@ -10,25 +10,31 @@ format:
 
 ---
 
-![](data/imgs/headshot.png){fig-align="left" width=120px style="border-radius: 50%; margin-right: 1.5em; float: left;"}
+::: {.hero}
+![](data/imgs/headshot.png){.headshot fig-alt="Portrait of David A. Vivian"}
 
-Environmental Humanities · Caribbean Studies · Comparative Literature (French/English/Spanish)
+::: {.hero-text}
+[Environmental Humanities · Caribbean Studies · Comparative Literature (French/English/Spanish)]{.hero-fields}
 
-[Email](mailto:davidavivian@gmail.com) | [CV](Vivian_CV.pdf) | [ORCID](https://orcid.org/0009-0005-4482-3273)
+[Author of _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP, forthcoming 2027)]{.hero-tagline}
+
+[Email](mailto:davidavivian@gmail.com){.hero-link} [CV](Vivian_CV.pdf){.hero-link} [ORCID](https://orcid.org/0009-0005-4482-3273){.hero-link}
+:::
+:::
 
 ## About
 
-<div style="display: flex; gap: 2em; align-items: flex-start;">
+<div class="about-row">
 
-<div style="flex: 3;">
+<div class="about-text">
 
-A specialist in Caribbean and francophone literatures, I situate much of my work within the environmental humanities. My first monograph _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP, expected 2027) develops the concept of "eco-epistemology." Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, gesturing instead toward relational and decolonial alternatives.
+A specialist in Caribbean and francophone literatures, I situate much of my work within the environmental humanities. My first monograph _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP, forthcoming 2027) develops the concept of "eco-epistemology." Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, gesturing instead toward relational and decolonial alternatives.
 
 In addition, I am editing a scholarly volume entitled _Toxic Narratives: Global Perspectives on Toxicity from the Environmental Humanities_ (under contract with Routledge's Environmental Humanities series), and preparing a translation of Patrick Chamoiseau's novel _Les neuf consciences du Malfini_.
 
 </div>
 
-<div style="flex: 1; text-align: center; min-width: 200px;">
+<div class="about-photo">
 
 ![](data/imgs/martinique-volcano.png){width=220px fig-align="center"}
 
@@ -134,15 +140,17 @@ I am committed to student-centered teaching in my courses, helping cultivate vit
 
 ## Selected Presentations {.section-title}
 
-### Invited Lectures
+### Invited and Guest Lectures
 
 - "From Messiahs to Mangroves: Relation and Resistance in Aimé and Suzanne Césaire." Public lecture sponsored by the Department of French, Reed College, February 26, 2026
 
 - "Creole Creativity as Plantation Resistance: A Decolonial-Ecofeminist Perspective." Public lecture sponsored by the Department of French, Amherst College, March 13, 2024
 
+- "Urban Poverty and the Promise of Paradise: Mahi Binebine's _Horses of God_." Guest lecture, EMP 335: Cities and Environment in the Global South (Prof. Deike Peters), Soka University, October 3, 2024
+
 ### Selected Conference Papers
 
-- "Penser/panser l'animal aux Antilles : l'éthique de soin chez Audrey Pulvar et Patrick Chamoiseau." Conseil International d'Études Francophones (CIÉF) session, "Mettre en question le (non-)soin : Imaginaires de réparation et de guérison contemporains." Modern Language Association (MLA) Annual Convention, Los Angeles, January 7–10, 2027 (accepted)
+- "Penser/panser l'animal aux Antilles : l'éthique de soin chez Audrey Pulvar et Patrick Chamoiseau" [Thinking/Tending the Animal in the French Caribbean: The Ethics of Care in Audrey Pulvar and Patrick Chamoiseau]. Conseil International d'Études Francophones (CIÉF) session, "Mettre en question le (non-)soin : Imaginaires de réparation et de guérison contemporains" [Questioning (Non-)Care: Contemporary Imaginaries of Repair and Healing]. Modern Language Association (MLA) Annual Convention, Los Angeles, January 7–10, 2027 (accepted)
 
 - "Translation, Relation, Ecology: Towards a Composting Theory of Translation in the Age of AI and Climate Crisis." Pacific Ancient and Modern Language Association (PAMLA), San Francisco, November 20–23, 2025
 

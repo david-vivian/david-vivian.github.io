@@ -4,6 +4,8 @@ project:
 website:
   title: "David A. Vivian"
   navbar:
+    background: "#1f4f4a"
+    foreground: "#ffffff"
     left:
       - href: index.qmd
         text: Home
