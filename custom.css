@@ -153,6 +153,21 @@ main h3 {
   text-align: center;
   min-width: 200px;
 }
+.about-photo p {
+  margin: 0;
+}
+.about-img {
+  width: 220px;
+  display: block;
+  margin: 0 auto;
+}
+.about-caption {
+  display: block;
+  max-width: 220px;
+  margin: 0.4em auto 0;
+  font-size: 0.85em;
+  line-height: 1.3;
+}
 @media (max-width: 600px) {
   .about-row {
     flex-direction: column;
