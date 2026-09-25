@@ -36,9 +36,8 @@ In addition, I am editing a scholarly volume entitled _Toxic Narratives: Global 
 
 <div class="about-photo">
 
-![](data/imgs/martinique-volcano.png){width=220px fig-align="center"}
-
-<small style="display: block; margin-top: 0.1em; line-height: 1.3;">Photo taken while hiking Martinique's Mont Pelée volcano, January 2025</small>
+![](data/imgs/martinique-volcano.png){.about-img fig-alt="Green slopes of Mont Pelée, Martinique, under a blue sky"}
+[Photo taken while hiking Martinique's Mont Pelée volcano, January 2025]{.about-caption}
 
 </div>
 
