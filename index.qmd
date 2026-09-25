@@ -18,7 +18,7 @@ format:
 
 [Author of _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP, forthcoming 2027)]{.hero-tagline}
 
-[Email](mailto:davidavivian@gmail.com){.hero-link} [CV](Vivian_CV.pdf){.hero-link} [ORCID](https://orcid.org/0009-0005-4482-3273){.hero-link}
+[Email](mailto:davidavivian@gmail.com){.hero-link} [CV](Vivian_CV.pdf){.hero-link} [ORCID](https://orcid.org/0009-0005-4482-3273){.hero-link} [Google Scholar](https://scholar.google.com/citations?user=cHUDRb0AAAAJ&hl=en){.hero-link}
 :::
 :::
 
