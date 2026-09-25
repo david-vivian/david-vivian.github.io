@@ -36,6 +36,19 @@ a:hover {
   color: var(--link-hover);
 }
 
+/* Navbar links stay light on the green bar, including once visited */
+.navbar a.navbar-brand,
+.navbar a.navbar-brand:visited,
+.navbar a.nav-link,
+.navbar a.nav-link:visited,
+.navbar .navbar-title {
+  color: #ffffff !important;
+}
+.navbar a.navbar-brand:hover,
+.navbar a.nav-link:hover {
+  color: #cfe3de !important;
+}
+
 /* Section headings: light rule with a short green accent bar */
 h2.section-title, main h2 {
   color: var(--accent);
