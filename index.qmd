@@ -16,7 +16,7 @@ format:
 ::: {.hero-text}
 [Environmental Humanities · French & Francophone Studies · Caribbean Studies]{.hero-fields}
 
-[Author of _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP, expected 2027)]{.hero-tagline}
+[Monograph: _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP, under contract; expected 2027)]{.hero-tagline}
 
 [Email](mailto:davidavivian@gmail.com){.hero-link} [CV](Vivian_CV.pdf){.hero-link} [ORCID](https://orcid.org/0009-0005-4482-3273){.hero-link} [Google Scholar](https://scholar.google.com/citations?user=cHUDRb0AAAAJ&hl=en){.hero-link}
 :::
@@ -28,7 +28,7 @@ format:
 
 <div class="about-text">
 
-A specialist in Caribbean and francophone literatures, I situate much of my work within the environmental humanities. My first monograph _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP, expected 2027) develops the concept of "eco-epistemology." Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, gesturing instead toward relational and decolonial alternatives.
+A specialist in Caribbean and francophone literatures, I situate much of my work within the environmental humanities. My first monograph _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP, under contract; expected 2027) develops the concept of "eco-epistemology." Against the instrumentalist legacies of colonial capitalism, I read authors such as Suzanne and Aimé Césaire, Patrick Chamoiseau, Maryse Condé, Édouard Glissant, Yanick Lahens, and Gisèle Pineau to elucidate a critique of social and ecological messianism, gesturing instead toward relational and decolonial alternatives.
 
 In addition, I am editing a scholarly volume entitled _Toxic Narratives: Global Perspectives from the Environmental Humanities_ (under contract with Routledge's Environmental Humanities series).
 
@@ -93,7 +93,7 @@ I am committed to student-centered teaching in my courses, helping cultivate vit
 
 ### Monograph
 
-- _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_. Liverpool University Press, expected 2027.
+- _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_. Liverpool University Press (under contract; expected 2027).
 
 ### Journal Articles
 
