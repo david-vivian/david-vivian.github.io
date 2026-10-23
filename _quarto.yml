@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - Vivian_CV.pdf
 website:
   title: "David A. Vivian"
   navbar:
