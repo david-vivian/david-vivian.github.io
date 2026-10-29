@@ -1,0 +1,22 @@
+---
+title: "Teaching Demonstration"
+search: false
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex">
+---
+
+A mock intermediate-level French class on the conditional, taught at Amherst College, Spring 2024 (about 45 minutes).
+
+```{=html}
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube-nocookie.com/embed/0yF16Dua0NE" title="Teaching Demonstration" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+</div>
+```
+
+<https://youtu.be/0yF16Dua0NE>
