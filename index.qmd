@@ -18,7 +18,7 @@ format:
 
 [Monograph: _Decolonial Ecologies in Francophone Caribbean Literature: From Messiahs to Mangroves_ (Liverpool UP, under contract; expected 2027)]{.hero-tagline}
 
-[Email](mailto:davidavivian@gmail.com){.hero-link} [CV](Vivian_CV.pdf?v=2026-10-23){.hero-link} [ORCID](https://orcid.org/0009-0005-4482-3273){.hero-link}
+[Email](mailto:davidavivian@gmail.com){.hero-link} [CV](Vivian_CV.pdf?v=2026-10-30){.hero-link} [ORCID](https://orcid.org/0009-0005-4482-3273){.hero-link}
 :::
 :::
 
